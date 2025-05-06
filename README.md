@@ -1,6 +1,6 @@
 # Weight Loss Calorie Calculator
 
-A simple React web application designed to help estimate daily calorie needs for weight loss based on user inputs. The app calculates Basal Metabolic Rate (BMR), Total Daily Energy Expenditure (TDEE), and provides a recommended calorie target to help users lose weight.
+A simple React web application designed to help estimate daily calorie needs for weight loss based on user inputs. The app calculates Basal Metabolic Rate (BMR), and Total Daily Energy Expenditure (TDEE), and provides a recommended calorie target to help users lose weight.
 
 ### Live Demo:
 You can try the live demo here: [Live Demo](https://paw-snout.github.io/Weight-Loss-Calorie-Calculator/)
@@ -26,7 +26,7 @@ You can try the live demo here: [Live Demo](https://paw-snout.github.io/Weight-L
 1. **Clone or Download the Repository**:
    - Clone the repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/your-username/Weight-Loss-Calorie-Calculator.git
+     git clone https://github.com/paw-snout/Weight-Loss-Calorie-Calculator.git
      ```
    
 2. **Navigate to the Project Directory**:
